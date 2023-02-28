@@ -12,4 +12,5 @@ We follow the evaluation setting in MoCo when trasferring to object detection.
 	 requried by detectron2.
 
 3. Put weight file under "benchmarks/detection/pth" directory, 
-   using "convert-pretrain-to-detectron2.py" to convert .pth to .pkl
+   using "convert-pretrain-to-detectron2.py" to convert .pth to .pkl, 
+   and put .pkl files under "benchmarks/detection/pkl"
