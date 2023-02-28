@@ -3,7 +3,7 @@ This Repository includes unsupervised feature extraction (DetCo), model convert,
 
 **Pre-train** 
 
-Please refer to DetCo.pytorch(https://github.com/shuuchen/DetCo.pytorch)
+Please refer to [DetCo.pytorch](https://github.com/shuuchen/DetCo.pytorch)
 
 
 **Model convert**
@@ -13,4 +13,4 @@ This file converts the format of the pre-trained weight file to the format that 
 
 **Fine-tuning**
 
-Please refer to DetCo(https://github.com/xieenze/DetCo)
+Please refer to [DetCo](https://github.com/xieenze/DetCo)
