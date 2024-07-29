@@ -1,4 +1,4 @@
-# BlineDetection
+# B-line Detection
 This Repository includes unsupervised feature extraction (DetCo), model convert, and fine-tuning. 
 
 **Pre-train** 
